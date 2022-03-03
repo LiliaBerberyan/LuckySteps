@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\obj\Debug\GameLuckySteps.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\bin\Debug\GameLuckySteps.exe.config
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\bin\Debug\GameLuckySteps.exe
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\bin\Debug\GameLuckySteps.pdb
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\obj\Debug\GameLuckySteps.csproj.CopyComplete
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\obj\Debug\GameLuckySteps.exe
+C:\Users\Asus\source\repos\GameLuckySteps\GameLuckySteps\obj\Debug\GameLuckySteps.pdb
